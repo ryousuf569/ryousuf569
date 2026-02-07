@@ -3,11 +3,11 @@
 📍 Waterloo, ON  
 🎓 Honours Mathematics (Co-op) @ University of Waterloo  
 
-[LinkedIn](https://linkedin.com/in/yousuf) · [Portfolio](https://portfolio.com/yousuf)
+[LinkedIn](https://www.linkedin.com/in/yousuf-rashid-2730122a5/) · [Portfolio](https://yousuf-rashid-portfolio.vercel.app/)
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a Mathematics student at the University of Waterloo with a strong interest in **quantitative research, data science, and machine learning applied to real-world decision making**.
 
@@ -20,15 +20,8 @@ I enjoy working at the intersection of:
 I focus on building systems that **answer real questions**, not just models that look good on paper.
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yousuf&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf&layout=compact&theme=default&hide_border=true" />
-</p>
-
-
-## 🔬 Current Work
+## Current Work
 
 **Student Machine Learning Researcher — Wat.AI**  
 *Jan 2026 – Present*
@@ -40,9 +33,9 @@ I focus on building systems that **answer real questions**, not just models that
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 📈 Stochastic Simulation for Index Futures
+### Stochastic Simulation for Index Futures
 *Python, NumPy, pandas*
 
 - Built a **domain-specific query language** to express stochastic simulation intent over financial time series
@@ -52,7 +45,7 @@ I focus on building systems that **answer real questions**, not just models that
 
 ---
 
-### 🎧 Music Listener Engagement Analysis
+### Music Listener Engagement Analysis
 *Python, scikit-learn, SQLite*
 
 - Modeled listener engagement using **Hidden Markov Models**
@@ -62,7 +55,7 @@ I focus on building systems that **answer real questions**, not just models that
 
 ---
 
-### 🏀 NBA Fantasy Performance Predictor
+### NBA Fantasy Performance Predictor
 *Python, XGBoost, FastAPI, React*
 
 - Processed **5,000+ rows** of NBA performance data
@@ -72,7 +65,7 @@ I focus on building systems that **answer real questions**, not just models that
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 **Languages**  
 Python · R · SQL · C/C++ · MATLAB · VBA
@@ -88,7 +81,7 @@ Git · GitHub · Linux · VS Code · Tableau · Power BI · Excel
 
 ---
 
-## 📚 Technical & Academic Activities
+## Technical & Academic Activities
 
 - **Robotics Software Lead (Skills Canada)**  
   Led C++ development for an autonomous robot achieving **85% run success**
@@ -99,7 +92,7 @@ Git · GitHub · Linux · VS Code · Tableau · Power BI · Excel
 
 ---
 
-## 🎯 Interests
+## Interests
 
 - Quantitative research & trading systems
 - Time-series modeling
@@ -109,4 +102,4 @@ Git · GitHub · Linux · VS Code · Tableau · Power BI · Excel
 
 ---
 
-📬 **Open to**: Quant Research, Data Science, ML, and FinTech co-op opportunities  
+**Open to**: Quant Research, Data Science, ML, and FinTech co-op opportunities  
