@@ -33,38 +33,6 @@ I focus on building systems that **answer real questions**, not just models that
 
 ---
 
-## Projects
-
-### Stochastic Simulation for Index Futures
-*Python, NumPy, pandas*
-
-- Built a **domain-specific query language** to express stochastic simulation intent over financial time series
-- Ran **10,000+ Monte Carlo simulations per query** using bootstrap sampling
-- Detected **p-hacked strategies with 68% accuracy**, preventing ~$2,000 in paper-trading losses
-- Ranked technical indicators using correlation and \(R^2\) for signal selection
-
----
-
-### Music Listener Engagement Analysis
-*Python, scikit-learn, SQLite*
-
-- Modeled listener engagement using **Hidden Markov Models**
-- Identified skip-prone segments accounting for **21.3% of track duration**
-- Built probabilistic state inference using **Multinomial Logistic Regression**
-- Designed a **normalized relational database** for per-second engagement analytics
-
----
-
-### NBA Fantasy Performance Predictor
-*Python, XGBoost, FastAPI, React*
-
-- Processed **5,000+ rows** of NBA performance data
-- Built ML pipelines with **XGBoost** (performance prediction) and **KNN** (player similarity)
-- Improved lineup decisions by **30% over rolling windows**
-- Deployed a **FastAPI backend** with a React/TypeScript frontend
-
----
-
 ## Technical Skills
 
 **Languages**  
