@@ -18,18 +18,12 @@ I'm a Mathematics student at the University of Waterloo and my first year their 
 **AI/ML Engineering Intern — deepidv**  
 *Apr 2026 – Present*
 
-- Conducting early-stage research on **LLM-free sentiment analysis** of financial news
-- Integrating **FinBERT-derived sentiment signals** with market metrics (returns, volatility)
-- Designing interpretable research pipelines using **NumPy, pandas, SciPy**
-- Evaluating sentiment-based factors for empirical robustness and signal quality
+- building something great **shhhhh**
 
 **Student Machine Learning Researcher — Wat.AI**  
 *Jan 2026 – Present*
 
-- Conducting early-stage research on **LLM-free sentiment analysis** of financial news
-- Integrating **FinBERT-derived sentiment signals** with market metrics (returns, volatility)
-- Designing interpretable research pipelines using **NumPy, pandas, SciPy**
-- Evaluating sentiment-based factors for empirical robustness and signal quality
+- most recent work involves researching unsupervised regime detection in equity markets using a 3-state Gaussian HMM on 5 years of S&P 500
 
 ---
 
