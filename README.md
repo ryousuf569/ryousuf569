@@ -1,7 +1,7 @@
 # Yousuf Rashid
 
 📍 Waterloo, ON  
-🎓 Honours Mathematics (Co-op) @ University of Waterloo  
+🎓 Applied Mathematics w SciML (Co-op) @ University of Waterloo  
 
 [LinkedIn](https://www.linkedin.com/in/yousuf-rashid-2730122a5/) · [Portfolio](https://yousuf-rashid-portfolio.vercel.app/)
 
