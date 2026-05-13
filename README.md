@@ -9,19 +9,19 @@
 
 ## About Me
 
-I'm a Mathematics student at the University of Waterloo with a strong interest in **quantitative research, data science, and machine learning applied to real-world decision making**.
-
-I enjoy working at the intersection of:
-- **Probability & statistics**
-- **Time-series analysis**
-- **Simulation & empirical research**
-- **Interpretable machine learning**
-
-I focus on building systems that **answer real questions**, not just models that look good on paper.
+I'm a Mathematics student at the University of Waterloo and my first year their made me fall in love with math (even though I wasn't that good at it). So ever since I've been chasing math until she loves me back by building ML Models and Trading systems with equations directly out of my textbooks.
 
 ---
 
 ## Current Work
+
+**AI/ML Engineering Intern — deepidv**  
+*Apr 2026 – Present*
+
+- Conducting early-stage research on **LLM-free sentiment analysis** of financial news
+- Integrating **FinBERT-derived sentiment signals** with market metrics (returns, volatility)
+- Designing interpretable research pipelines using **NumPy, pandas, SciPy**
+- Evaluating sentiment-based factors for empirical robustness and signal quality
 
 **Student Machine Learning Researcher — Wat.AI**  
 *Jan 2026 – Present*
