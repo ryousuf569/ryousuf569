@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=0:0F172A,100:1E3A8A&text=Yousuf&fontColor=E2E8F0&fontAlign=50&fontAlignY=40&desc=Applied%20Math%20%7C%20Scientific%20ML%20%7C%20Physics + Gaming&descAlign=50&descAlignY=62&descSize=16" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=0:0F172A,100:1E3A8A&text=Yousuf&fontColor=E2E8F0&fontAlign=50&fontAlignY=40&desc=Applied%20Math%20%7C%20Scientific%20ML%20%7C%20Physics%20%2B%20Gaming&descAlign=50&descAlignY=62&descSize=16" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=Physics-flavored+reinforcement+learning;Sports+data%2C+pitch+control%2C+and+dynamical+systems;Generative+models+for+sound+and+synthesis" alt="typing" />
+
+</div>
 
 </div>
 
