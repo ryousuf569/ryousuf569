@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=140&color=0:0F172A,100:1E3A8A&text=Yousuf&fontColor=E2E8F0&fontAlign=50&fontAlignY=50&fontSize=75" width="100%" style="display:block;margin:0;" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=E2E8F0&background=1E3A8A&center=true&vCenter=true&width=1000&height=40&lines=Applied+Math+%7C+Scientific+ML;Physics-flavored+reinforcement+learning;Sports+data%2C+pitch+control%2C+dynamical+systems;Generative+models+for+sound+and+synthesis" width="100%" style="display:block;margin:0;" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=E2E8F0&background=1E3A8A&center=true&vCenter=true&width=1000&height=70&lines=Yousuf;Applied+Math+%7C+Scientific+ML;Physics-flavored+reinforcement+learning;Sports+data%2C+pitch+control%2C+dynamical+systems;Generative+models+for+sound+and+synthesis" width="100%" />
 
 </div>
 
