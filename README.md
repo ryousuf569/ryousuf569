@@ -2,9 +2,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=0:0F172A,100:1E3A8A&text=Yousuf&fontColor=E2E8F0&fontAlign=50&fontAlignY=40&desc=Applied%20Math%20%7C%20Scientific%20ML%20%7C%20Physics%20%2B%20Gaming&descAlign=50&descAlignY=62&descSize=16" />
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=Physics-flavored+reinforcement+learning;Sports+data%2C+pitch+control%2C+and+dynamical+systems;Generative+models+for+sound+and+synthesis" alt="typing" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=140&color=0:0F172A,100:1E3A8A&text=Yousuf&fontColor=E2E8F0&fontAlign=50&fontAlignY=50&fontSize=60" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=E2E8F0&background=1E3A8A&center=true&vCenter=true&width=1000&height=40&lines=Applied+Math+%7C+Scientific+ML;Physics-flavored+reinforcement+learning;Sports+data%2C+pitch+control%2C+dynamical+systems;Generative+models+for+sound+and+synthesis" width="100%" />
+
+</div>
 
 </div>
 
@@ -14,7 +17,7 @@
 
 ### First principles
 
-I'm doing Applied Mathematics with a Scientific ML specialization at Waterloo, currently on co-op as an AI/ML engineering intern at a small AI security startup, working on multi-party computation protocols. I don't really pick projects for the resume line — I pick them because they force me to actually learn a piece of math I've been circling (chaos theory, group symmetry, pitch control fields in soccer, whatever), and code is just the fastest way to find out if I understood it or was fooling myself.
+I'm doing Applied Mathematics with a Scientific ML specialization at Waterloo, currently on co-op as an AI/ML engineering intern at a small AI security startup, working on multi-party computation protocols. I don't really pick projects for the resume line - I pick them because they force me to actually learn a piece of math I've been circling (chaos theory, group symmetry, pitch control fields in soccer, whatever), and code is just the fastest way to find out if I understood it or was fooling myself.
 
 ---
 
@@ -36,6 +39,7 @@ I'm doing Applied Mathematics with a Scientific ML specialization at Waterloo, c
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
 </div>
+
 ---
 
 ### Selected work
