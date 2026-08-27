@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=0:0F172A,100:1E3A8A&text=Bunior&fontColor=E2E8F0&fontAlign=50&fontAlignY=40&desc=Applied%20Math%20%7C%20Scientific%20ML%20%7C%20Cryptography&descAlign=50&descAlignY=62&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=0:0F172A,100:1E3A8A&text=Yousuf&fontColor=E2E8F0&fontAlign=50&fontAlignY=40&desc=Applied%20Math%20%7C%20Scientific%20ML%20%7C%20Cryptography&descAlign=50&descAlignY=62&descSize=16" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=94A3B8&center=true&vCenter=true&width=650&lines=Second-year+Applied+Math+(Scientific+ML)%2C+Waterloo;MPC+cryptography+by+day%2C+dynamical+systems+by+night;Chaos%2C+group+theory%2C+and+the+occasional+PPO+agent" alt="typing" />
 
