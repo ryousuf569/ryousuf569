@@ -24,13 +24,6 @@ I'm doing Applied Mathematics with a Scientific ML specialization at Waterloo, c
 
 ---
 
-### Currently in motion
-
-- **TripleLock** — patent-pending MPC authentication protocol, co-designed at DeepIDV
-- **haramball-hunter** — PPO agent trained to break a low-block soccer defense against a from-scratch physics engine
-- **Wat.AI** — asset-conditioned financial sentiment model: same headline, different signal depending on what it's about
----
-
 ### Instruments
 
 <div align="center">
@@ -44,20 +37,6 @@ I'm doing Applied Mathematics with a Scientific ML specialization at Waterloo, c
 </div>
 
 ---
-
-### Selected work
-
-**haramball-hunter** - *reinforcement learning, dynamical systems*
-A PPO agent learns to dismantle a low-block defense, rewarded against a pitch-control field I derived from Spearman's kinematic model and built from scratch in NumPy. Ported the reward computation to a custom CUDA kernel for a 5.1x throughput gain (44 to 224 env steps/sec), with the two backends agreeing to about 1e-5. Currently reframed around a constrained-RL question: when you ask a trained policy for a behavior at some target rate, does it actually land there, or drift.
-
-**TripleLock** - *applied cryptography*
-An MPC-based authentication protocol, patent-pending, built during my time at DeepIDV. This is the part of the internship that's closest to what got me into the math side of security in the first place — protocols where the interesting object is the proof, not the implementation.
-
-**Asset-conditioned sentiment (Wat.AI)** — *NLP, distant supervision*
-Most sentiment models score a headline. This one scores a headline against a specific asset, since "copper and gold prices rise as the dollar weakens" is not the same sentence for copper, gold, and the dollar. Labels come from what markets actually did afterward rather than hand annotation, which is the only way to get this to scale.
-
----
-
 ### Reach
 
 If you're working on anything at the intersection of physics-flavoured ML, sport tech, music tech, reach out!
