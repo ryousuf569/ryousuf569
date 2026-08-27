@@ -24,9 +24,14 @@ I'm doing Applied Mathematics with a Scientific ML specialization at Waterloo, c
 ### Instruments
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,mongodb,postgres,git,linux,c,tensorflow,sklearn,cuda,matplotlib&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,sklearn&perline=6" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,linux&perline=6" />
 </div>
-
+<div align="center">
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+</div>
 ---
 
 ### Selected work
