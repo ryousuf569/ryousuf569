@@ -24,7 +24,7 @@ I'm doing Applied Mathematics with a Scientific ML specialization at Waterloo, c
 ### Instruments
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,mongodb,postgres,git,linux,vercel&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,mongodb,postgres,git,linux,c,tensorflow,sklearn&perline=6" />
 </div>
 
 ---
@@ -48,7 +48,7 @@ If you're working on anything at the intersection of physics-flavoured ML, sport
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/email-your.email%40example.com-1E3A8A?style=for-the-badge&logo=gmail&logoColor=E2E8F0)](mailto:y2rashid@uwaterloo.ca)
+[![Email](https://img.shields.io/badge/y2rashid@uwaterloo.ca%40example.com-1E3A8A?style=for-the-badge&logo=gmail&logoColor=E2E8F0)](mailto:y2rashid@uwaterloo.ca)
 [![LinkedIn](https://img.shields.io/badge/linkedin-your--handle-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=E2E8F0)]([https://linkedin.com/in/your-handle](https://www.linkedin.com/in/yousuf-rashid-2730122a5/))
 
 </div>
